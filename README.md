@@ -14,3 +14,5 @@ brute cnf version
 using global cnf to deduct the location of mines
 
 achieve a winning rate of 92/100 in simple version of MineSweeper
+
+![avatar](image/simple_in_brute_cnf.png)
