@@ -1,4 +1,5 @@
 # Auto-MineSweeper
+[![OSCS Status](https://www.oscs1024.com/platform/badge/xiahongchi/AutoMineSweeper.svg?size=small)](https://www.oscs1024.com/project/xiahongchi/AutoMineSweeper?ref=badge_small)
 Using logic deduction to solve the minesweeper game
 
 Parts of the codes come from U.C.Berkeley's course project in cs188
