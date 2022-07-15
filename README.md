@@ -19,7 +19,7 @@ achieve a winning rate of 92/100 in simple version of MineSweeper
 
 
 
-updated in 15th July 2022:  
+**updated in 15th July 2022:  **
 
 add local cnf search and scanning
 
