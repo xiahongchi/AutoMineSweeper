@@ -1,4 +1,4 @@
-# AutoMineSweeper
+# Auto-MineSweeper
 Using logic deduction to solve the minesweeper game
 
 Parts of the codes come from U.C.Berkeley's course project in cs188
@@ -8,9 +8,27 @@ Parts of the codes come from U.C.Berkeley's course project in cs188
 * util.py
 * part of logicPlan.py
 
-updated in 14th July 2022:
+**updated in 14th July 2022:**
 brute cnf version
 
 using global cnf to deduct the location of mines
 
 achieve a winning rate of 92/100 in simple version of MineSweeper
+
+![avatar](./image/simple_in_brute_cnf.png)
+
+
+
+updated in 15th July 2022:  
+
+add local cnf search and scanning
+
+demo video here:
+
+<iframe 
+    width="800" 
+    height="450" 
+    src="./video/demo.mp4"
+    frameborder="0" 
+    allowfullscreen>
+</iframe>
